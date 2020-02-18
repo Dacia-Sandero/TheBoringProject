@@ -1,0 +1,11 @@
+Truclos de javascript:
+
+https://www.emezeta.com/articulos/javascript-cheatsheet-chuleta-js
+
+Truclos de css:
+
+https://www.emezeta.com/articulos/css3-cheatsheet-chuleta-css
+
+Truclos de html:
+
+https://www.emezeta.com/articulos/html5-cheatsheet-chuleta-html
